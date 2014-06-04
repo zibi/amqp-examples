@@ -1,0 +1,1 @@
+This is a collection of ruby scripts presenting some features of AMQP protocol.
